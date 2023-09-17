@@ -5,16 +5,6 @@
 /.pnp
 .pnp.js
 
-/public/Astronaut.glb
-/public/boeing.glb
-/public/deer.glb
-/public/deer.usdz
-/public/golf.glb
-/public/laptop.glb
-/public/ship.glb
-/public/bg.jpg
-/public/bg1.jpg
-
 # testing
 /coverage
 
