@@ -10,6 +10,9 @@ three
 
 Download files:
 https://downloadfree3d.com/file-format/glb/
+
 https://sketchfab.com/tags/glb
+
 https://github.com/google/model-viewer/blob/master/packages/shared-assets/models/Astronaut.glb
+
 https://modelviewer.dev/examples/augmentedreality/index.html#sceneViewer
