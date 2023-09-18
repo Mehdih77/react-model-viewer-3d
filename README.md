@@ -8,6 +8,8 @@ three
 
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
+<hr></hr>
+
 Download files:
 
 https://downloadfree3d.com/file-format/glb/
